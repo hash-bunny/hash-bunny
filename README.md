@@ -1,6 +1,6 @@
 # Hey, I'm Maeson, You found my github!
 
-| [About Me](#about-me) | [Languages I Know](#languages-i-know) | 
+| [About Me](#about-me) | [Languages I Know](#languages-i-know) | [Some of my Projects](#some-of-my-projects) |
 
 ## 🐇>About me
 I'm a software developer and computer scientist from Saskatchewan, Canada!<br/>
@@ -20,10 +20,11 @@ Here's a list of languages I've worked in ordered from most to least favorite, a
 5. CSS (2 Years)
 6. Javascript (2 Years)
 
-## 🏢>Some of my work
+## 🏢>Some of my Projects
 Incase you don't want to take me at my work, here's some of my projects you can check out to see some of my work:
 * [QuestPDF push to .NET 9](https://github.com/BTELNYY/QuestPDF)
-  * A quick fork of a PDF generation library from to push it from .NET 8 to .NET 9 that me and a friend quickly made for for me to use in a seperate project for a client at Saskpolytech
-*  [Computer Systems Technology year 1 end of year project](https://github.com/hash-bunny/cst-student-project-prjblue2025)
-  * This was my year end project me and a group of my classmates made for the end of our first year at Saskpolytech
+  *  A quick fork of a PDF generation library from to push it from .NET 8 to .NET 9 that me and a friend quickly made for use in a seperate project for a client at Saskpolytech
+* [Computer Systems Technology year 1 end of year project](https://github.com/hash-bunny/cst-student-project-prjblue2025)
+  * This was my year end project that me and a group of my classmates made for the end of our first year at Saskpolytech!
 * (I'll squeeze a third project in here eventually)
+  * text goes here
