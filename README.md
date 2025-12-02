@@ -31,5 +31,7 @@ Incase you don't want to take me at my work, here's some of my projects you can 
 * [Web Development 280 Final Project](https://github.com/hash-bunny/cweb_final_project)
   * This was my final project for my Web Development 280 class at Saskpolytech where I made a simple blogging website. Unlike my year end project from my first year I was able to use more libraries and make a mostly production ready, stateful website. I learned a lot about managing API's and authentication and autorization making this. 
 
+## 📡>Contact Me
+If you have any questions, comments or offers to work on a project, contact me at: maesonbunny.dev@gmail.com
 
 <sub>Last updated: 2025/12/02</sub>
