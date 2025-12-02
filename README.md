@@ -1,6 +1,9 @@
 # Hey, I'm Maeson, You found my github!
 
-| [About Me](#about-me) | [Languages I Know](#languages-i-know) | [Some of my Projects](#some-of-my-projects) |
+## 📖>Table of Contents
+[> About Me](#about-me)<br/>
+[> My Skills](#my-skills)<br/>
+[> Some of my Projects](#some-of-my-projects)<br/>
 
 ## 🐇>About me
 I'm a software developer and computer scientist from Saskatchewan, Canada!<br/>
@@ -12,7 +15,7 @@ I enjoy working in a team, but I'm still able to manage myself and take charge o
 break down and explain my code or assit in developing a plan to solve a difficult coding problem.
 Outside of software development I enjoy playing videogames and developing mods for those games in my free time, but you probably didnt come here to read about my hobbies, so I'll get into some details on my experience next. 
 
-## 📖>Languages I Know
+## 📕>My Skills
 As mentioned before I have a particular interest in backend development and object oritented languages, but that doesnt mean thats all I know.
 Here's a list of languages I've worked in ordered from most to least favorite, as well as the (rough) ammount of time I've worked with that language:
 1. C# (1 Year)
@@ -20,7 +23,20 @@ Here's a list of languages I've worked in ordered from most to least favorite, a
 3. HTML (2 Years)
 4. Python (< 1 Year)
 5. CSS (2 Years)
-6. Javascript (2 Years)
+6. Javascript (2 Years)<br/>
+
+I also have experience with several other aspects of development such as:
+* GIT and GIT management
+* Database creation, development, and managment
+* Development frameworks and enviroments like:
+  * Blazor (C#)
+  * Entitiy Framework Core (C#)
+  * React (Javascript)
+  * Sequalize (Javascript)
+  * Node.JS (Javascript)
+  * Android Studio (Java)
+* Rapid Prototyping with Figma
+* Agile Development Style
 
 ## 🏢>Some of my Projects
 Incase you don't want to take me at my work, here's some of my projects you can check out to see some of my work:
