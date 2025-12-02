@@ -23,8 +23,11 @@ Here's a list of languages I've worked in ordered from most to least favorite, a
 ## 🏢>Some of my Projects
 Incase you don't want to take me at my work, here's some of my projects you can check out to see some of my work:
 * [QuestPDF push to .NET 9](https://github.com/BTELNYY/QuestPDF)
-  *  A quick fork of a PDF generation library from to push it from .NET 8 to .NET 9 that me and a friend quickly made for use in a seperate project for a client at Saskpolytech
+  *  A quick fork of a PDF generation library from to push it from .NET 8 to .NET 9 that me and a friend quickly made for use in a seperate project for a client at Saskpolytech. This was wasn't a difficult update to make but it gave me some valuable experience modifying open source code to better fit my needs
 * [Computer Systems Technology year 1 end of year project](https://github.com/hash-bunny/cst-student-project-prjblue2025)
-  * This was my year end project that me and a group of my classmates made for the end of our first year at Saskpolytech!
+  * This was my year end project that me and a group of my classmates made for the end of our first year at Saskpolytech! This gave me some valuable experience working in full stack development and working in a larger team.
 * (I'll squeeze a third project in here eventually)
   * text goes here
+
+
+<sub>Last updated: 2025/12/02</sub>
